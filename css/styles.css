@@ -1,0 +1,155 @@
+body{color: #40514E;
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather Sans', sans-serif;
+
+}
+h1{font-size:5em;
+
+  width: 20%;
+margin: 0 auto 0 auto;
+position: relative;
+top: 20px;
+font-family: 'Sacramento', cursive;
+color: #B93160;
+}
+H2{font-family: 'Sacramento', cursive;
+font-size: 2.5rem;
+color: #73A9AD;
+padding-bottom: 10px;
+font-weight: normal;
+}
+H3{
+font-family: 'Montserrat Alternates', sans-serif;
+  color: #73A9AD;
+}
+p{
+  line-height: 2;
+}
+.top-container{
+    background-color: #31E1F7;
+    position:relative;
+    padding-top: 200px;
+
+}
+.middle-container{
+  margin:100px 0;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250PX;
+  border-bottom: 200PX;
+
+}
+.top-cloud{
+  position: absolute;
+  top: 20px;
+  right: 200PX;
+
+}
+
+
+.my-image{
+
+
+  border-radius: 100px;
+height: 150px;
+    width: 150px;
+}
+hr{
+  border: dotted #EAF6F6 6PX;
+border-bottom: none;
+width: 4%;
+margin: 100px auto 100px auto;
+}
+
+.SKILL1{
+  border-radius: 100px;
+  height:100PX;
+  width: 100PX;
+  float: left;
+  margin-right: 30PX;
+
+
+}
+
+.CRICKET{
+  border-radius: 100px;
+  height:100PX;
+  width: 100PX;
+  float: right;
+  margin-left: 30px;
+}
+.Skills{
+  width:50%;
+}
+.skill-row{
+  width: 50%;
+  display: block;
+margin:100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.DHONI{
+  text-decoration: underline;
+  COLOR:#990000;
+
+}
+.contact-message{
+  width: 35%;
+  margin: 40px auto 40px auto;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.intro{
+  width:30%;
+margin:20px auto;
+}
+.btn {
+  background: #34d968;
+  background-image: -webkit-linear-gradient(top, #34d968, #2980b9);
+  background-image: -moz-linear-gradient(top, #34d968, #2980b9);
+  background-image: -ms-linear-gradient(top, #34d968, #2980b9);
+  background-image: -o-linear-gradient(top, #34d968, #2980b9);
+  background-image: linear-gradient(to bottom, #34d968, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #c74228;
+  background-image: -webkit-linear-gradient(top, #c74228, #86d934);
+  background-image: -moz-linear-gradient(top, #c74228, #86d934);
+  background-image: -ms-linear-gradient(top, #c74228, #86d934);
+  background-image: -o-linear-gradient(top, #c74228, #86d934);
+  background-image: linear-gradient(to bottom, #c74228, #86d934);
+  text-decoration: none;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 60px 0 50px;
+  margin-top: 50px;
+}
+a{
+  color:#243A73;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #990000;
+}
+.copyright{
+color:  #EAF6F6;
+font-size:1REM;
+padding: 20PX 0;
+}
